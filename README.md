@@ -958,3 +958,25 @@ uv run streamlit run app.py
 This project was built as a hands-on learning project to understand:
 
 **LLMs → LangChain → Memory → Embeddings → Vector Databases → AI Applications**
+
+
+
+## 🚀 Try the Live Application
+
+Want to use the AI Interview Prep Coach directly?
+
+👉 **[Open AI Interview Prep Coach](https://mem0-ai-interview-coach-rffnahrwuk5bwrbwq2fjuk.streamlit.app)**
+
+You don't need to install Python, clone the repository, or set up any API keys.
+
+### How to Use
+
+1. Open the live application using the link above.
+2. Enter your **User ID / Name** in the sidebar.
+3. Start chatting with the AI Interview Prep Coach.
+4. Use the **same User ID** when you return so your stored memories can be retrieved.
+5. Ask interview questions, share your preparation progress, weaknesses, or answer practice questions.
+
+🧠 The application uses **Mem0 persistent memory** to remember relevant information about each user and personalize future conversations.
+
+> **Note:** Use the same User ID each time if you want the application to retrieve your previous memories.
